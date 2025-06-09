@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://your-image-url.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQGGjwO_pwzX6Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729928415157?e=1755129600&v=beta&t=fm36-TSiJxeWqmIgz9VWne6MpCZe7dP_RO-6GbVdPKI)" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ahosan Hamid</h1>
 <h3 align="center">A passionate Mobile Application developer from Bangladesh</h3>
 
