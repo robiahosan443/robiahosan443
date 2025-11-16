@@ -40,6 +40,7 @@
 ## Featured Project
 
 ### **Smart Manufacturing App**  
+# **<img src="smart_manufacture.png" width="50" height="50" style="border-radius: 16px; vertical-align: middle; margin-right: 14px;"> Smart Manufacturing**  
 **Real-time Factory Monitoring | Worker Tracking | Machine Health**  
 *Android | Flutter | Firebase | MVVM | Kotlin Coroutines*
 
@@ -69,16 +70,6 @@
 
 
 ---
-
-### **Key Screens**
-
-| # | Screen | Description |
-|---|--------|-------------|
-| 1 | **Main Dashboard** | Central hub showing all key metrics |
-| 2 | **Portfolio Details** | Comprehensive portfolio performance view *(new feature)* |
-| 3 | **Daily Task Management** | Task tracking interface |
-| 4 | **Service Maintenance** | Equipment maintenance workflows |
-| 5 | **Quality Control** | QC form submissions and monitoring |
 
 
 ### **Key Screens**
@@ -119,7 +110,7 @@
 ---
 
 ### **Rainbow App**  
-# **<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 100 100'%3E%3Cdefs%3E%3Cfilter id='shadow'%3E%3CfeDropShadow dx='0' dy='2' stdDeviation='4' flood-color='%23000' flood-opacity='0.3'/%3E%3C/filter%3E%3C/defs%3E%3CforeignObject x='0' y='0' width='100' height='100'%3E%3Cimg xmlns='http://www.w3.org/1999/xhtml' src='rainbow_logo.jpg' width='100' height='100' style='border-radius:16px; clip-path: inset(0 round 16px);'/%3E%3C/foreignObject%3E%3Cg filter='url(%23shadow)'%3E%3C/foreignObject%3E%3C/svg%3E" width="50" height="50" style="vertical-align: middle; margin-right: 14px;"> Rainbow – Loyalty for BD Mistris**  
+# **<img src="rainbow_logo.jpg" width="50" height="50" style="border-radius: 16px; vertical-align: middle; margin-right: 14px;"> Rainbow Paints Bandhan**  
 **Earn Points | Scan QR | Cash Out | Made in Bangladesh**
 
 ---
@@ -183,8 +174,32 @@ Rainbow is a **mobile loyalty platform** designed to empower **plumbers, technic
 
 ---
 
-**Live on Play Store** (Coming Soon)  
-**Made in Bangladesh**  
+### **Key Screens**
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <strong> Login Screen </strong><br>
+      <img src="rainbow_login.jpg" width="250" height="450" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong> Dashboard Screen</strong><br>
+      <img src="rainbow_dashboard.jpg" width="250" height="450" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong> Running Program</strong><br>
+      <img src="rainbow_running_program.jpg" width="250" height="450" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong> Showrooms </strong><br>
+      <img src="rainbow_showrooms.jpg" width="250" height="450" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    
+  </tr>
+</table>
+
+**Play Store**: [Download Now](https://play.google.com/store/apps/details?id=com.prangroup.mis.rainbow&hl=en)  
+**3 Stars | 1K+ Downloads | Made in Bangladesh** 
 
 ---
 
