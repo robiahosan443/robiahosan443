@@ -203,16 +203,5 @@ Rainbow is a **mobile loyalty platform** designed to empower **plumbers, technic
 
 ---
 
-> **"Turning every paint job into extra income — for the real heroes of BD construction."**
-
-> **"Empowering Bangladeshi factories with Industry 4.0 — one tap at a time."**
-
----
-
-## Let’s Build Something Great for Bangladesh!
-
-> *"Turning ideas into smooth, scalable mobile experiences — one line of code at a time."*
-
----
 
 **Available for hire** | Ready to join **immediately**
