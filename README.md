@@ -1,4 +1,4 @@
-![Mobile Application Developer](https://media.licdn.com/dms/image/v2/D4D16AQGGjwO_pwzX6Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729928415157?e=1755129600&v=beta&t=fm36-TSiJxeWqmIgz9VWne6MpCZe7dP_RO-6GbVdPKI)
+![Mobile Application Developer](linkeden.jpg)
 
 <h1 align="center">Hi, I'm Ahosan Hamid</h1>
 <h3 align="center">A passionate Mobile Application Developer from Bangladesh</h3>
@@ -250,16 +250,6 @@ Rainbow is a **mobile loyalty platform** designed to empower **plumbers, technic
 # **<img src="gold_logo2.png" width="50" style="vertical-align: middle; margin-right: 12px;"> Gold Price Alerts – Real-time Forex Signals**  
 **Live XAU/USD Signals | TP/SL Alerts | VIP Insights | Made in Bangladesh**
 
----
-
-#### **Download Now**
-
-<div align="center">
-
-[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.goldprice.alert)  
-[![App Store](https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg)](https://apps.apple.com/us/app/gold-price-alerts-xauusd/id6742319232)
-
-</div>
 
 ---
 
@@ -300,16 +290,28 @@ A **cross-platform Flutter app** that delivers **real-time gold trading signals 
 #### **Screenshots**
 
 <div align="center">
-  <img src="screenshots/signal_live.jpg" width="200" />
-  <img src="screenshots/vip_analysis.jpg" width="200" />
-  <img src="screenshots/history.jpg" width="200" />
+  <table>
+    <tr>
+      <td><img src="gold1.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+      <td><img src="gold2.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+    </tr>
+    <tr>
+      <td><img src="gold3.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+      <td><img src="gold4.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-**Live on Play Store** (Coming Soon)  
-**App Store Ready**  
-**Made in Bangladesh**
+#### **Download Now**
+
+<div align="center">
+
+[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.goldprice.alert)  
+[![App Store](https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg)](https://apps.apple.com/us/app/gold-price-alerts-xauusd/id6742319232)
+
+</div>
 
 ---
 
