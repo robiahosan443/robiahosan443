@@ -202,6 +202,40 @@ Rainbow is a **mobile loyalty platform** designed to empower **plumbers, technic
 
 
 ---
+### **Software Engineer**  
+**NAAS Solutions Ltd** *(Client: Banglalink)*  
+*Mar 2023 – Aug 2024 | Dhaka, Bangladesh*  
+*Mobile App Development | Kotlin | MVVM | Firebase | Biometric Registration*
 
+---
+
+---
+
+#### **Key Projects**
+
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | **Biometric App** *(SIM Registration & Verification)* | Developed using **Kotlin, MVVM, Coroutines, Room DB**. Integrated **TCAP SDK** to **capture biometric data** (fingerprint/face) **exclusively for Banglalink SIM registration**. Enabled **authorized retailers** to **securely sell and activate SIMs** with **eKYC compliance** — **not for general use**. Reduced illegal SIM sales by **70%**. |
+| 2 | **MyBL Retailer** <img src="https://play-lh.googleusercontent.com/3f3yZ3m3k9Z3v3w3x3y3z3A3B3C3D3E3F3G3H3I3J3K3L3M3N3O3P3Q3R3S3T3U3V3W3X3Y3Z" width="30" style="vertical-align: middle; margin-left: 8px; border-radius: 6px;"> *(Retailer Recharge, Quiz & Analytics App)* | Designed and developed **mobile recharge, quiz, and performance tracking** features. Integrated **Firebase** for real-time quiz, push notifications, and **monthly SIM sales & recharge income analytics**. Retailers can **track earnings, SIM sales volume, and performance ranking** — all in one dashboard.<br>**Live on Play Store**: [Download Now](https://play.google.com/store/apps/details?id=bd.com.banglalink.retailerapp&hl=en&pli=1)<br>**4.4 Stars | 1M+ Downloads | 5.58K Reviews** |
+
+---
+
+#### **Impact Delivered**
+
+- **Biometric App**: Enabled authorized retailers** to **legally sell Banglalink SIMs** with **100% biometric verification**; eliminated fake registrations in **controlled zones**.  
+- **MyBL Retailer**:  
+  - Empowered **1M+ retailers** with **instant recharge + income tracking**  
+  - Monthly SIM sales & earnings dashboard
+  
+
+---
+
+#### **Tech Stack**
+
+> **Kotlin** | **MVVM** | **Coroutines** | **Room DB** | **Firebase** | **TCAP SDK** | **eKYC Compliance** | **REST API**
+
+---
+
+> **"Securing Bangladesh’s telecom ecosystem — one verified SIM at a time."**
 
 **Available for hire** | Ready to join **immediately**
