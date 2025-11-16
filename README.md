@@ -119,8 +119,8 @@
 ---
 
 ### **Rainbow App**  
-**Empowering Plumbers & Technicians in Bangladesh**  
-*Native Android | Kotlin | MVVM | Firebase | QR Points*
+# **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" style="vertical-align: middle;"> Rainbow – Loyalty for BD Mistris**  
+**Earn Points | Scan QR | Cash Out | Made in Bangladesh**
 
 ---
 
