@@ -118,6 +118,78 @@
 
 ---
 
+### **Rainbow App**  
+**Empowering Plumbers & Technicians in Bangladesh**  
+*Native Android | Kotlin | MVVM | Firebase | QR Points*
+
+---
+
+#### **Description**
+
+Rainbow is a **mobile loyalty platform** designed to empower **plumbers, technicians, and craftsmen** across Bangladesh by providing them with opportunities to **increase income** and **track work**. It serves as a **reward system** for professionals using **Rainbow Paints** products.
+
+---
+
+#### **Key Features**
+
+| Feature | Description |
+|--------|-------------|
+| **Dashboard** | Track points & cash balance |
+| **QR Code Scanning** | Earn points via product QR codes |
+| **Manual Code Entry** | Backup option for point collection |
+| **Point Transfer** | Send points to other users |
+| **Cash Withdrawal** | Convert points to real money |
+| **Gift Store** | Redeem points for rewards |
+| **Transaction History** | Full audit trail |
+| **In-App Chat** | Direct messaging with support |
+| **User Profile** | Manage personal details |
+| **Vendor Locator** | Find nearby showrooms |
+| **Technician Directory** | Connect with local mistris |
+| **Product Catalog** | Browse Rainbow Paints lineup |
+| **Push Notifications** | Updates & promotions |
+
+---
+
+#### **Technology Stack**
+
+| Component | Technology |
+|---------|------------|
+| **Language** | Kotlin |
+| **Architecture** | MVVM |
+| **Navigation** | Navigation Component |
+| **DI** | Hilt |
+| **Networking** | Retrofit + REST API |
+| **Local DB** | Room |
+| **State** | LiveData + ViewModel |
+| **QR Scanning** | ZXing |
+| **Push** | Firebase Cloud Messaging |
+
+---
+
+#### **Target Users**
+
+> **Plumbers, Technicians, Painters (Mistris)** in Bangladesh  
+> Who use **Rainbow Paints** products daily
+
+---
+
+#### **Notable Functionality**
+
+- Scan **QR codes on paint cans** → earn **loyalty points**  
+- **Transfer points** to friends or family  
+- **Redeem for cash** or **gifts**  
+- **Find nearest showroom** via GPS  
+- **Chat with Rainbow support** in-app  
+
+---
+
+**Live on Play Store** (Coming Soon)  
+**Made in Bangladesh**  
+
+---
+
+> **"Turning every paint job into extra income — for the real heroes of BD construction."**
+
 > **"Empowering Bangladeshi factories with Industry 4.0 — one tap at a time."**
 
 ---
