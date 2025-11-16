@@ -119,7 +119,7 @@
 ---
 
 ### **Rainbow App**  
-# **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" style="vertical-align: middle;"> Rainbow – Loyalty for BD Mistris**  
+# **<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='50' viewBox='0 0 100 100'%3E%3Cdefs%3E%3Cfilter id='shadow'%3E%3CfeDropShadow dx='0' dy='2' stdDeviation='4' flood-color='%23000' flood-opacity='0.3'/%3E%3C/filter%3E%3C/defs%3E%3CforeignObject x='0' y='0' width='100' height='100'%3E%3Cimg xmlns='http://www.w3.org/1999/xhtml' src='rainbow_logo.jpg' width='100' height='100' style='border-radius:16px; clip-path: inset(0 round 16px);'/%3E%3C/foreignObject%3E%3Cg filter='url(%23shadow)'%3E%3C/foreignObject%3E%3C/svg%3E" width="50" height="50" style="vertical-align: middle; margin-right: 14px;"> Rainbow – Loyalty for BD Mistris**  
 **Earn Points | Scan QR | Cash Out | Made in Bangladesh**
 
 ---
