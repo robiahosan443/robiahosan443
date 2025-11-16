@@ -317,4 +317,74 @@ A **cross-platform Flutter app** that delivers **real-time gold trading signals 
 
 > **"Turning gold market volatility into your profit — one signal at a time."**
 
+### **Altdeer Cloud**  
+# **<img src="altdeer.png" width="50" style="vertical-align: middle; margin-right: 12px;"> Altdeer Cloud – KYC Module (My Contribution)**  
+**Face Liveness | Blink Detection | Document Capture | Made in Bangladesh**
+
+---
+
+#### **Overview**
+
+**My Role**: Developed the **KYC verification module** within **Altdeer Cloud** — a **Flutter-powered mobile app** for **secure user onboarding** using **real-time face detection**, **liveness verification**, and **document scanning**.
+
+> **App Context**: Altdeer Cloud is a **cloud-based business platform** (CRM, inventory, payments).  
+> **My Part**: Built the **KYC flow** to comply with **eKYC regulations** for user verification.
+
+---
+
+#### **My Contribution: KYC Module**
+
+| Feature | Implementation |
+|--------|----------------|
+| **Real-time Face Detection** | Integrated **Google ML Kit** for live face tracking |
+| **Liveness Verification** | **Blink detection** — user blinks **3 times** to prove liveness |
+| **Secure Upload** | Encrypted submission via **Dio** |
+
+---
+
+#### **Technical Highlights (My Stack)**
+
+| Component | Technology |
+|---------|------------|
+| **Framework** | Flutter (Dart) |
+| **ML** | Google ML Kit (Face Detection API) |
+| **Camera** | `camera` + custom preview |
+| **State** | GetX |
+| **Storage** | Shared Preference |
+| **Networking** | Dio + Interceptors |
+
+---
+
+#### **Screenshots (My Module)**
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="kyc/face_live.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+      <td><img src="kyc/blink_verify.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Face Detection</strong></td>
+      <td align="center"><strong>Blink to Verify</strong></td>
+    </tr>
+    <tr>
+      <td><img src="kyc/doc_scan.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+      <td><img src="kyc/upload_success.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Document Scan</strong></td>
+      <td align="center"><strong>Secure Submit</strong></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+**Team Project** | **My Module: KYC**  
+**Made in Bangladesh**
+
+---
+
+> **"I built the KYC engine that secures user onboarding — fast, accurate, and eKYC-ready."**
+
 **Available for hire** | Ready to join **immediately**
