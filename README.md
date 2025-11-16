@@ -39,75 +39,6 @@
 
 ## Featured Project
 
-### **Smart Manufacturing App**  
-# **<img src="smart_manufacture.png" width="50" height="50" style="border-radius: 16px; vertical-align: middle; margin-right: 14px;"> Smart Manufacturing**  
-**Real-time Factory Monitoring | Worker Tracking | Machine Health**  
-*Android | Flutter | Firebase | MVVM | Kotlin Coroutines*
-
----
-
-#### **Tech Stack & Architecture**
-
-| Component | Technology |
-|---------|------------|
-| **Language** | Kotlin |
-| **Architecture** | MVVM (Model-View-ViewModel) |
-| **UI Framework** | Material Design 3 |
-| **Charting** | MPAndroidChart |
-| **Networking** | REST API + Retrofit |
-| **Async** | Kotlin Coroutines + Flow |
-
-
----
-
-#### **Key Features**
-
-- **Dashboard Analytics** – Real-time production and rejection metrics tracking  
-- **Task Management** – Daily task tracking and management  
-- **Data Visualization** – Production trend line charts ,Machine status pie charts
-- **Filtering and Reporting** –Multi-level filtering (Location, Business Unit, Section)
-- **User Management** – Role-based access control
-
-
----
-
-
-### **Key Screens**
-
-<table>
-  <tr>
-    <td align="center" width="250">
-      <strong>1. Daily Task </strong><br>
-      <img src="111.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>2. Loading Screen</strong><br>
-      <img src="222.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>3. Machine Down TIme</strong><br>
-      <img src="333.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>4. Rejection Entry</strong><br>
-      <img src="444.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>5. Add Rejections</strong><br>
-      <img src="555.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>6. Task Dashboard</strong><br>
-      <img src="666.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-  </tr>
-</table>
-
-
-**Play Store**: [Download Now](https://play.google.com/store/apps/details?id=com.smart_manufacture.android)  
-**3 Stars | 1K+ Downloads | Made in Bangladesh**
-
----
 
 ### **Rainbow App**  
 # **<img src="rainbow_logo.jpg" width="50" height="50" style="border-radius: 16px; vertical-align: middle; margin-right: 14px;"> Rainbow Paints Bandhan**  
@@ -200,6 +131,75 @@ Rainbow is a **mobile loyalty platform** designed to empower **plumbers, technic
 
 **Play Store**: [Download Now](https://play.google.com/store/apps/details?id=com.prangroup.mis.rainbow&hl=en)  
 **3 Stars | 1K+ Downloads | Made in Bangladesh** 
+
+### **Smart Manufacturing App**  
+# **<img src="smart_manufacture.png" width="50" height="50" style="border-radius: 16px; vertical-align: middle; margin-right: 14px;"> Smart Manufacturing**  
+**Real-time Factory Monitoring | Worker Tracking | Machine Health**  
+*Android | Flutter | Firebase | MVVM | Kotlin Coroutines*
+
+---
+
+#### **Tech Stack & Architecture**
+
+| Component | Technology |
+|---------|------------|
+| **Language** | Kotlin |
+| **Architecture** | MVVM (Model-View-ViewModel) |
+| **UI Framework** | Material Design 3 |
+| **Charting** | MPAndroidChart |
+| **Networking** | REST API + Retrofit |
+| **Async** | Kotlin Coroutines + Flow |
+
+
+---
+
+#### **Key Features**
+
+- **Dashboard Analytics** – Real-time production and rejection metrics tracking  
+- **Task Management** – Daily task tracking and management  
+- **Data Visualization** – Production trend line charts ,Machine status pie charts
+- **Filtering and Reporting** –Multi-level filtering (Location, Business Unit, Section)
+- **User Management** – Role-based access control
+
+
+---
+
+
+### **Key Screens**
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <strong>1. Daily Task </strong><br>
+      <img src="111.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>2. Loading Screen</strong><br>
+      <img src="222.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>3. Machine Down TIme</strong><br>
+      <img src="333.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>4. Rejection Entry</strong><br>
+      <img src="444.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>5. Add Rejections</strong><br>
+      <img src="555.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>6. Task Dashboard</strong><br>
+      <img src="666.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+  </tr>
+</table>
+
+
+**Play Store**: [Download Now](https://play.google.com/store/apps/details?id=com.smart_manufacture.android)  
+**3 Stars | 1K+ Downloads | Made in Bangladesh**
+
 
 ---
 
