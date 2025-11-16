@@ -80,6 +80,39 @@
 | 4 | **Service Maintenance** | Equipment maintenance workflows |
 | 5 | **Quality Control** | QC form submissions and monitoring |
 
+
+### **Key Screens**
+
+<table>
+  <tr>
+    <td align="center" width="250">
+      <strong>1. Daily Task </strong><br>
+      <img src="111.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>2. Loading Screen</strong><br>
+      <img src="222.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>3. Machine Down TIme</strong><br>
+      <img src="333.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>4. Rejection Entry</strong><br>
+      <img src="444.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>5. Add Rejections</strong><br>
+      <img src="555.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+    <td align="center" width="250">
+      <strong>6. Task Dashboard</strong><br>
+      <img src="666.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
+    </td>
+  </tr>
+</table>
+
+
 **Play Store**: [Download Now](https://play.google.com/store/apps/details?id=com.smart_manufacture.android)  
 **3 Stars | 1K+ Downloads | Made in Bangladesh**
 
