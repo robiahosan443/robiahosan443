@@ -247,8 +247,19 @@ Rainbow is a **mobile loyalty platform** designed to empower **plumbers, technic
 > **"Securing Bangladesh’s telecom ecosystem — one verified SIM at a time."**
 
 ### **Gold Price Alerts (XAU/USD)**  
-# **<img src="gold_logo.png" width="50" style="vertical-align: middle; margin-right: 12px;"> Gold Price Alerts – Real-time Forex Signals**  
+# **<img src="gold_logo2.png" width="50" style="vertical-align: middle; margin-right: 12px;"> Gold Price Alerts – Real-time Forex Signals**  
 **Live XAU/USD Signals | TP/SL Alerts | VIP Insights | Made in Bangladesh**
+
+---
+
+#### **Download Now**
+
+<div align="center">
+
+[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.goldprice.alert)  
+[![App Store](https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg)](https://apps.apple.com/us/app/gold-price-alerts-xauusd/id6742319232)
+
+</div>
 
 ---
 
