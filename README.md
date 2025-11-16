@@ -30,55 +30,62 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-    <br><sub><b>Android</b></sub>
-  </a>&nbsp;
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-    <br><sub><b>Dart</b></sub>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-    <br><sub><b>Figma</b></sub>
-  </a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    <br><sub><b>Firebase</b></sub>
-  </a>&nbsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-    <br><sub><b>Flutter</b></sub>
-  </a>&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <br><sub><b>Java</b></sub>
-  </a>&nbsp;
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-    <br><sub><b>Kotlin</b></sub>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    <br><sub><b>MySQL</b></sub>
-  </a>&nbsp;
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-    <br><sub><b>Adobe XD</b></sub>
-  </a>
-</p>
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/> <br><sub><b>Android</b></sub> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/> <br><sub><b>Dart</b></sub> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> <br><sub><b>Figma</b></sub> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> <br><sub><b>Firebase</b></sub> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/> <br><sub><b>Flutter</b></sub> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <br><sub><b>Java</b></sub> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/> <br><sub><b>Kotlin</b></sub> | 
 
 ---
 
 ## Featured Project
 
 ### **Smart Manufacturing App**  
-*Android | Flutter | Firebase | Real-time Monitoring*  
-- Live production tracking  
-- Worker attendance via QR  
-- Machine health alerts  
-- **Play Store**: [Download Now](https://play.google.com/store/apps/details?id=com.smart_manufacture.android)
+**Real-time Factory Monitoring | Worker Tracking | Machine Health**  
+*Android | Flutter | Firebase | MVVM | Kotlin Coroutines*
+
+---
+
+#### **Tech Stack & Architecture**
+
+| Component | Technology |
+|---------|------------|
+| **Language** | Kotlin |
+| **Architecture** | MVVM (Model-View-ViewModel) |
+| **UI Framework** | Material Design 3 |
+| **Charting** | MPAndroidChart |
+| **Networking** | REST API + Retrofit |
+| **Async** | Kotlin Coroutines + Flow |
+
+
+---
+
+#### **Key Features**
+
+- **Dashboard Analytics** – Real-time production and rejection metrics tracking  
+- **Task Management** – Daily task tracking and management  
+- **Data Visualization** – Production trend line charts ,Machine status pie charts
+- **Filtering and Reporting** –Multi-level filtering (Location, Business Unit, Section)
+- **User Management** – Role-based access control
+
+
+---
+
+### **Key Screens**
+
+| # | Screen | Description |
+|---|--------|-------------|
+| 1 | **Main Dashboard** | Central hub showing all key metrics |
+| 2 | **Portfolio Details** | Comprehensive portfolio performance view *(new feature)* |
+| 3 | **Daily Task Management** | Task tracking interface |
+| 4 | **Service Maintenance** | Equipment maintenance workflows |
+| 5 | **Quality Control** | QC form submissions and monitoring |
+
+**Play Store**: [Download Now](https://play.google.com/store/apps/details?id=com.smart_manufacture.android)  
+**3 Stars | 1K+ Downloads | Made in Bangladesh**
+
+---
+
+> **"Empowering Bangladeshi factories with Industry 4.0 — one tap at a time."**
 
 ---
 
