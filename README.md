@@ -315,8 +315,6 @@ A **cross-platform Flutter app** that delivers **real-time gold trading signals 
 
 ---
 
-> **"Turning gold market volatility into your profit — one signal at a time."**
-
 ### **Altdeer Cloud**  
 # **<img src="altdeer.png" width="50" style="vertical-align: middle; margin-right: 12px;"> Altdeer Cloud – KYC Module (My Contribution)**  
 **Face Liveness | Blink Detection | Document Capture | Made in Bangladesh**
@@ -360,20 +358,20 @@ A **cross-platform Flutter app** that delivers **real-time gold trading signals 
 <div align="center">
   <table>
     <tr>
-      <td><img src="kyc/face_live.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
-      <td><img src="kyc/blink_verify.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+      <td><img src="alt1.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+      <td><img src="alt2.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
     </tr>
     <tr>
-      <td align="center"><strong>Face Detection</strong></td>
-      <td align="center"><strong>Blink to Verify</strong></td>
+      <td align="center"><strong>Profile before varified</strong></td>
+      <td align="center"><strong>Face camera option</strong></td>
     </tr>
     <tr>
-      <td><img src="kyc/doc_scan.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
-      <td><img src="kyc/upload_success.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+      <td><img src="alt3.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
+      <td><img src="alt4.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
     </tr>
     <tr>
-      <td align="center"><strong>Document Scan</strong></td>
-      <td align="center"><strong>Secure Submit</strong></td>
+      <td align="center"><strong>Face detection and blink</strong></td>
+      <td align="center"><strong>After verified</strong></td>
     </tr>
   </table>
 </div>
@@ -384,7 +382,5 @@ A **cross-platform Flutter app** that delivers **real-time gold trading signals 
 **Made in Bangladesh**
 
 ---
-
-> **"I built the KYC engine that secures user onboarding — fast, accurate, and eKYC-ready."**
 
 **Available for hire** | Ready to join **immediately**
