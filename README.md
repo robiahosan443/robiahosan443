@@ -167,34 +167,50 @@ Rainbow is a **mobile loyalty platform** designed to empower **plumbers, technic
 
 ### **Key Screens**
 
-<table>
-  <tr>
-    <td align="center" width="250">
-      <strong>1. Daily Task </strong><br>
-      <img src="111.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>2. Loading Screen</strong><br>
-      <img src="222.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>3. Machine Down TIme</strong><br>
-      <img src="333.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>4. Rejection Entry</strong><br>
-      <img src="444.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>5. Add Rejections</strong><br>
-      <img src="555.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-    <td align="center" width="250">
-      <strong>6. Task Dashboard</strong><br>
-      <img src="666.jpg" width="250" height="300" style="object-fit: cover; border-radius: 8px;"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table cellpadding="12" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="111.jpg" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;">
+        <p style="margin: 10px 0 0; font-weight: bold; font-size: 15px; color: #333;">
+          Daily Task
+        </p>
+      </td>
+      <td align="center">
+        <img src="222.jpg" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;">
+        <p style="margin: 10px 0 0; font-weight: bold; font-size: 15px; color: #333;">
+          Loading Screen
+        </p>
+      </td>
+      <td align="center">
+        <img src="333.jpg" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;">
+        <p style="margin: 10px 0 0; font-weight: bold; font-size: 15px; color: #333;">
+          Machine Down TIme
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="444.jpg" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;">
+        <p style="margin: 10px 0 0; font-weight: bold; font-size: 15px; color: #333;">
+         Rejection Entry
+        </p>
+      </td>
+      <td align="center">
+        <img src="555.jpg" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;">
+        <p style="margin: 10px 0 0; font-weight: bold; font-size: 15px; color: #333;">
+          Add Rejections
+        </p>
+      </td>
+      <td align="center">
+        <img src="666.jpg" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: block;">
+        <p style="margin: 10px 0 0; font-weight: bold; font-size: 15px; color: #333;">
+         Task Dashboard
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 **Play Store**: [Download Now](https://play.google.com/store/apps/details?id=com.smart_manufacture.android)  
