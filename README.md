@@ -312,6 +312,13 @@ A **cross-platform Flutter app** that delivers **real-time gold trading signals 
       <td><img src="gold2.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
     </tr>
     <tr>
+      <td colspan="2" align="center" style="padding-top: 8px;">
+        <p style="margin: 0; font-weight: bold; font-size: 17px; color: #1a1a1a;">
+          Gold Signal Dashboard – Live Trading View
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td><img src="gold3.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
       <td><img src="gold4.jpg" width="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/></td>
     </tr>
