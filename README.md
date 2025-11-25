@@ -353,13 +353,14 @@ A **cross-platform Flutter app** that delivers **real-time gold trading signals 
 
 ---
 
-#### **My Contribution: KYC Module**
+#### **My Contribution: KYC Module and BlockChain**
 
 | Feature | Implementation |
 |--------|----------------|
 | **Real-time Face Detection** | Integrated **Google ML Kit** for live face tracking |
 | **Liveness Verification** | **Blink detection** — user blinks **3 times** to prove liveness |
 | **Secure Upload** | Encrypted submission via **Dio** |
+| **Web3** | Implement Web3 to connect with multiple Blockchain |
 
 ---
 
